@@ -1,0 +1,46 @@
+# Category Code;  Product Name;            Price;   Tax;              Image;                   Description
+
+C01;             Vinfast Limo Green;        30000;      0.1;            limo-green.webp;       The VinFast Limo Green is a fully electric, seven-seater MPV (Multi-Purpose Vehicle) designed for families and commercial fleet use, such as ride-hailing services. It features a practical, spacious design and a minimalist interior.
+C01;             Vinfast Minio Green;       10700;      0.1;            minio-green.webp;      The VinFast Minio Green is a compact, 3-door electric city car (hatchback) designed primarily as an affordable, four-wheeled alternative to motorcycles for urban mobility. It features a practical design and a minimalist interior, and is intended for both personal and commercial use, such as in the "Green and Smart Mobility" (GSM) taxi fleet services in Vietnam.
+C01;             Vinfast Vf3;                11900;      0.1;            vf3.webp;             The VinFast VF 3 is a compact, two-door electric mini-SUV designed primarily for urban mobility, with a robust, boxy design and an affordable price point.
+
+C01;             Vinfast Vf5;               21000;     0.1;            vf5.webp;               The VinFast VF 5 is an all-electric, A-segment compact crossover city car with a modern, robust design, built for urban use. It features a minimalist interior with a central touchscreen display and is available in different battery configurations depending on the market.
+C01;             Vinfast Vf6;                  27000;     0.1;            vf6.webp;            The VinFast VF 6 is a modern and stylish all-electric, five-seater compact crossover SUV, blending a sleek design by Torino Design with a tech-focused, minimalist interior. It is positioned for urban and highway driving and offers a strong balance of style, safety, and performance.
+C01;              Vinfast Vf7;               32000;     0.1;             vf7.webp;             The VinFast VF 7 is an all-electric, five-seater mid-sized crossover SUV, featuring a dynamic, avant-garde design and a high-tech, driver-focused interior with a large central touchscreen display. It is available with both single-motor FWD and dual-motor AWD options, offering versatile performance and range.
+C01;              Vinfast Vf8;                40000;     0.1;             vf8.webp;            The VinFast VF 8 is an all-electric mid-size crossover SUV (D-segment) designed by Pininfarina, offering a blend of modern design, a minimalist high-tech interior, and all-wheel-drive performance. It competes with models like the Tesla Model Y and Hyundai Ioniq 5 and is available in Eco and Plus trim levels.
+
+C01;              Vinfast Vf9;                   41000;      0.0;         vf9.webp;            The VinFast VF 9 is a full-size, three-row all-electric crossover SUV designed by Pininfarina, serving as VinFast's flagship vehicle, featuring premium amenities, a minimalist high-tech interior, and all-wheel-drive performance.
+C01;              Vinfast Wild;                  32000;      0.0;         vf-wild.webp;        The VinFast VF Wild is a fully electric mid-size pickup truck concept that showcases a rugged, futuristic design with a focus on flexible utility. Developed in collaboration with Australian design studio GoMotiv, it features a "Fluid Dynamism" aesthetic inspired by a superhero's cape.
+C01;              Vinfast Ebus;                   56000;      0.0;        ebus.webp;           The VinFast eBus (marketed under the VinBus brand) is a series of zero-emission, low-floor electric city buses designed for modern urban public transport. Initially launched in Vietnam, VinFast recently expanded its lineup with new models tailored for international markets like Europe.
+C01;              Vinfast Ecvan;                   11400;      0.0;       ecvan.webp;          The VinFast EC Van (E-City Van) is a compact, two-seater electric light commercial vehicle (LCV) launched in May 2025. It is specifically designed for urban logistics and last-mile delivery, serving as a green alternative to traditional small gasoline vans like the Suzuki Blind Van.
+
+
+
+
+C02;              Vinfast DrgnFly;            1160;      0.0;      drgnfly.webp;               The VinFast DrgnFly is a high-performance electric bike featuring a unique, "neo-retro" design inspired by the image of an ascending dragon from Vietnamese history. It combines vintage motorcycle aesthetics with modern smart technology for urban commuting and leisure.
+C02;               Vinfast Evo Grand;          910;      0.0;          evo-grand.webp;         The VinFast Evo Grand is a dual-battery electric scooter designed as an upgraded, long-range version of the popular Evo 200. Launched as part of VinFast's 2025–2026 e-scooter lineup, it is tailored for urban commuters and professional drivers who require extended daily mileage.
+C02;               Vinfast Evo Neo;            710;      0.0;       evo-neo.webp;              The VinFast Evo Neo (also referred to as Evo Lite Neo in some markets) is a compact, nimble electric scooter launched in 2025. It is positioned as an affordable, stylish entry-level model, primarily targeting students and urban commuters who prioritize economy and ease of use.
+
+C02;                Vinfast Evo X;              1400;      0.0;        evo-x.webp;             The VinFast Evo X is a high-performance, sporty electric scooter variant slated for release in late 2026. It is positioned as the most powerful and technologically advanced model in the "Evo" family, prioritizing acceleration and modern features over the base models.
+C02;            Vinfast Feliz S;                1080;      0.0;        feliz-s.webp;           The VinFast Feliz S is an upgraded version of the Feliz electric scooter, featuring significant enhancements in performance and range thanks to a more powerful motor and a high-capacity LFP battery. It is designed for urban commuters seeking a stylish, practical, and efficient daily transport solution.
+C02;            Vinfast Klara Neo;              1150;      0.0;        klara-neo.webp;         The VinFast Klara Neo is a modern and stylish electric scooter designed for urban commuting, featuring a classic Italian-inspired design and an efficient, city-friendly performance. It uses a reliable LFP battery and a robust motor to blend style and functionality.
+C02;            Vinfast Motio;                  700;      0.0;         motio.webp;             The VinFast Motio is a compact and affordable electric scooter launched on January 12, 2025, primarily targeting students and Gen Z/Gen Alpha users. It is designed as both a practical urban vehicle and a "fashionable running handbag" to reflect personal style.
+C02;            Vinfast Vento Neo;              1280;      0.0;        vento-neo.webp;         The VinFast Vento Neo is a modern and stylish electric scooter with a sleek, European-inspired design, optimized for urban commuting. It offers a practical blend of performance, smart features, and affordability, particularly suitable for riders seeking a step up from entry-level models.
+
+C02;             Vinfast Zgoo;                  630;      0.0;         zgoo.webp;               The VinFast Zgoo is a compact, low-cost electric scooter designed primarily for students and new riders who do not require a driver's license, as its top speed is limited. It features a modern design and is equipped with an LFP battery for enhanced durability and safety.
+C02;             Vinfast Theon S;               2630;      0.0;        theon-s.webp;            The VinFast Theon S is a premium, high-performance electric scooter designed for sophisticated urban riders who demand speed, robust features, and long range. It is positioned as the top-tier model in VinFast's scooter lineup, offering a compelling alternative to traditional 150cc-170cc gasoline scooters.
+
+
+C03;               Flymoto;                                    0;           0;           flymoto-f1.webp;
+C03;               Isetta;                                     0;           0;           isetta-f1.webp;
+C03;               Motobike F1;                               0;           0;           motobike-f1.webp;
+C03;               Pasla;                                     0;           0;           pasla-f1.webp;
+C03;               Robot 1;                                     0;           0;           robot-f1.webp;
+C03;               Robot 2;                                     0;           0;           robot-f2.webp;
+C03;               Robot 3;                                     0;           0;           robot-f3.webp;
+C03;               Spider;                                     0;           0;           spider-f1.webp;
+C03;               Suzuki;                                     0;           0;           suzuki-f1.webp;
+C03;               Vehicle F1;                                 0;           0;           vehicle-f1.webp;
+
+
+

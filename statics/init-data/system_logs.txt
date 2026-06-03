@@ -1,0 +1,28 @@
+
+
+# severity                           Content
+
+alert;                             Alert log content 1
+warning;                           Warning log content 1
+error;                             Error log content 1
+information;                       Information log content 1
+debugging;                         Debugging  log content 1
+
+alert;                             Alert log content 2
+warning;                           Warning log content 2
+error;                             Error log content 2
+information;                       Information log content 2
+debugging;                         Debugging  log content 2
+
+alert;                             Alert log content 3
+warning;                           Warning log content 3
+error;                             Error log content 3
+information;                       Information log content 3
+debugging;                         Debugging  log content 3
+
+
+alert;                             Alert log content 4
+warning;                           Warning log content 4
+error;                             Error log content 4
+information;                       Information log content 4
+debugging;                         Debugging  log content 4

@@ -1,0 +1,5 @@
+
+# ProjectCode      ProjectName                    Description
+
+PROJ01;         Leantek Project;                 Leantek Flutter Project
+PROJ02;         Internal Project;                Internal Web Project

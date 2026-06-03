@@ -1,0 +1,35 @@
+@DataClassName('User')
+    class Users extends Table {
+      IntColumn get id => integer().autoIncrement().call();
+      TextColumn get name => text().withLength(min: 1, max: 32).call();
+    }
+
+    @DataClassName('Order')
+    class Orders extends Table {
+      IntColumn get id => integer().autoIncrement().call();
+      TextColumn get description => text().withLength(min: 1, max: 128).call();
+      IntColumn get userId => integer().references(Users, #id).call();
+    }
+Start a select statement: Begin a select statement with the primary table you want to query from.
+Code
+
+    final query = select(users);
+Add the join clause: Use the .join() method to specify the type of join (e.g., innerJoin, leftOuterJoin) and the table to join with.
+You must also provide the on expression to define the join condition, typically comparing the foreign key and primary key columns.
+Code
+
+    final query = select(users).join([
+      innerJoin(orders, orders.userId.equalsExp(users.id)),
+    ]);
+Execute the query and process results: Execute the query and map the results to a custom data class or directly access the columns
+from the joined tables.
+Code
+
+    Future<List<UserWithOrders>> getUsersWithOrders() async {
+      final rows = await query.get();
+      return rows.map((row) {
+        final user = row.readTable(users);
+        final order = row.readTable(orders);
+        return UserWithOrders(user: user, order: order); // Custom data class
+      }).toList();
+    }

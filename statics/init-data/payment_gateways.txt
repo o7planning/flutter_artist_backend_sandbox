@@ -1,0 +1,10 @@
+
+#  ID                Name                     Status
+
+paypal;               Paypal;                 true
+gpay   ;              GPay;                   true
+bitcoin   ;            Bitcoin;               true
+skrill   ;           Skrill;                  true
+visa   ;              Visa;                   true
+stripe   ;            Stripe;                 true
+paytm   ;            Paytm;                   true

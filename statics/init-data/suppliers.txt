@@ -1,0 +1,17 @@
+
+
+# Name                       Type         Image                      Email                                       Description
+
+Johnson & Johnson;             MF;        johnson.webp;               medinfocenter@its.jnj.com;                   Johnson & Johnson (J&J) is a multinational corporation that develops, manufactures, and sells medical devices and pharmaceutical products. They also own many consumer brands, including Band-Aid, Tylenol, and Aveeno.
+
+Nestlé;                        MF;        nestle.webp;              wecare@in.nestle.com;                         Nestlé is a Swiss-based multinational food and beverage company that sells products in many countries. It is the world's largest food and beverage company by revenue and other metrics.
+
+Coca Cola Company;             MF;        cocacola.webp;              asktheboard@coca-cola.com;                     The Coca-Cola Company is a global beverage corporation that manufactures, sells, and markets a wide range of non-alcoholic drinks, most notably the iconic Coca-Cola, alongside other brands like Sprite, Fanta, Dasani water, and Minute Maid juices, operating in over 200 countries and claiming to "refresh the world and make a difference" through its products and sustainability initiatives; headquartered in Atlanta, Georgia, USA.
+
+PepsiCo;                       MF;        pepsi.webp;              pepsicomediarelations@pepsico.com;            PepsiCo is a multinational food and beverage company that manufactures and sells a variety of products. It's one of the world's largest food and beverage companies.
+
+Unilever;                      MF;        unilever.webp;               comsec.hul@unilever.com;                       Unilever is a multinational consumer goods company that sells food, beverages, cleaning products, and personal care items. It's one of the world's largest consumer goods companies.
+
+Kellogg’s;                     MF;        kelloggs.webp;              pressoffice@kellogg.com;                       Kellogg's is a multinational food company that makes cereal, snacks, and frozen foods. The company was founded in 1906 by W.K. Kellogg, who accidentally invented corn flakes while trying to make granola.
+
+

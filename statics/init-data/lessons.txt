@@ -1,0 +1,55 @@
+
+# BookCode        LessonTitle                             SeqNum        Locked       Published         Description            ImageName
+
+   B1;             The present simple ;                    10;           false;           true;          Description 1  ;
+   B1;             The present simple negative ;           20;           false;           true;          Description 2  ;
+   B1;             Present simple questions ;              30;           false;           false;          Description 3  ;
+   B1;          The present continuous ;                   40;           false;           false;          Description 4  ;
+    B1;         Present tenses overview ;                  50;           false;           true;          Description 5  ;
+   B1;           Present tenses overview ;                 60;           false;           true;          Description 6  ;
+   B1;          Imperatives ;                              70;           false;           true;          Description 7  ;
+    B1;          The past simple ;                         80;           false;           true;          Description 8  ;
+   B1;           The past simple negative ;                90;           false;           true;          Description 9  ;
+   B1;           Past simple questions ;                   100;           false;           true;          Description 10  ;
+   B1;           The past continuous ;                     110;           false;           true;          Description 11  ;
+#    ---------------------------------------------------------------
+   B2;            The present perfect simple ;              10;           false;           true;          Description 1  ;
+   B2;           The present perfect continuous ;           20;           false;           true;          Description 2  ;
+   B2;          The past perfect simple" ;                  30;           false;           false;          Description 3  ;
+   B2;           The past perfect continuous ;              40;           false;           false;          Description 4  ;
+   B2;          "Used to" and "would" ;                     50;           false;           true;          Description 5  ;
+   B2;           Past tenses overview ;                     60;           false;           true;          Description 6  ;
+   B2;           The future with "going to" ;               70;           false;           true;          Description 7  ;
+    B2;          The future with "will" ;                   80;           false;           true;          Description 8  ;
+    B2;          The present for future events ;            90;           false;           true;          Description 9  ;
+     B2;         The future continuous ;                    100;           false;           true;          Description 10  ;
+
+#    ---------------------------------------------------------------
+
+     B3;      The future perfect ;                           10;           false;           true;          Description 1  ;
+     B3;        The future in the past ;                     20;           false;           true;          Description 2  ;
+    B3;        Future overview ;                             30;           false;           false;          Description 3  ;
+    B3;            The passive ;                             40;           false;           false;          Description 4  ;
+   B3;           The passive in the past ;                   50;           false;           true;          Description 5  ;
+   B3;          The passive in the future ;                  60;           false;           true;          Description 6  ;
+   B3;           The passive with modals ;                   70;           false;           true;          Description 7  ;
+   B3;           Other passive constructions ;               80;           false;           true;          Description 8  ;
+   B3;          Conditional sentences ;                      90;           false;           true;          Description 9  ;
+   B3;           Other conditional sentences ;              100;           false;           true;          Description 10  ;
+
+#    ---------------------------------------------------------------
+
+
+
+   B4;          Conditional sentences overview  ;             10;           false;           true;          Description 1  ;
+    B4;          Future possibilities  ;                      20;           false;           true;          Description 2  ;
+    B4;          Wishes and regrets  ;                        30;           false;           true;          Description 3  ;
+   B4;           Forming questions  ;                         40;           false;           false;          Description 4  ;
+   B4;           Question words  ;                            50;           false;           false;          Description 5  ;
+  B4;            Open question  ;                             60;           false;           true;          Description 6  ;
+  B4;            Object and subject questions  ;              70;           false;           true;          Description 7  ;
+  B4;           Indirect questions  ;                         80;           false;           true;          Description 8  ;
+  B4;            Question tags  ;                             90;           false;           true;          Description 9  ;
+   B4;          Short questions  ;                            100;           false;           true;          Description 10  ;
+   B4;          Short answers  ;                              110;           false;           true;          Description 11  ;
+   B4;           Questions overview  ;                        120;           false;           true;          Description 12  ;

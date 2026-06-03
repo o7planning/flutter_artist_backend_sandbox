@@ -1,0 +1,62 @@
+
+#Code      Symbol        Name               Description
+
+USD;       $;       US Dollar;            The USD (United States dollar) is the official currency of the United States of America. The United States dollar, or U.S. dollar, is made up of 100 cents. It is represented by the symbol $ or US$ to differentiate it from other dollar-based currencies.
+EUR;       €;       Euro;                 The euro (symbol: €, currency code: EUR) is the official currency of 20 of the 27 member states of the European Union. This group of states is officially known as the euro area or, more commonly, the eurozone. The euro is divided into 100 euro cents.
+JPY;       ¥;       Japanese Yen;         Introduced in 1871, the Japanese yen (Japanese: 円), or JPY, is the official currency of Japan. The symbol of the yen is ¥, along with JP¥, which is sometimes used to separate the Japanese yen from the Chinese yuan renminbi, which shares the same symbol.
+GBP;       £;      Pound Sterling;        Key Takeaways. GBP is the abbreviation for the British pound sterling, the official currency of the United Kingdom. The British pound sterling is symbolized by the pound sign (£) and referred to as “sterling” or by the nickname “quid.”
+AUD;       $;       Australian Dollar;    AUD is the abbreviation for the Australian dollar. The AUD replaced the Australian pound in 1966. The AUD is the official currency in Australia and in several independent countries and territories in the South Pacific, including Papua New Guinea, Christmas Island, the Cocos Islands, Nauru, Tuvalu, and Norfolk Island.
+CAD;       $;       Canadian Dollar;      The Canadian Dollar refers to Canada's domestic currency and is abbreviated as CAD. A Canadian dollar consists of 100 cents and is also described as C$ to differentiate it from other dollar-denominated national currencies, such as the US dollar.
+CHF;       Fr;      Swiss Franc;          Introduced in 1850, the Swiss franc (CHF) is the official currency of Switzerland, Liechtenstein and the Italian exclave of Campione d'Italia, and is the only franc remaining in Europe.
+CNH;       ¥;       Chinese Renminbi;     CNH is the type of Renminbi traded in the offshore market. The offshore market simply refers to everywhere outside of mainland China. Hong Kong is considered part of the offshore market and thus trades using CNH. CNH is traded freely in currency markets across the globe and its price is determined by market forces.
+HKD;       HK$;        Hong Kong Dollar;  The Hong Kong dollar is divided into 100 cents and issued in seven denominations: 10c, 20c, 50c, HK$1, HK$2, HK$5 and HK$10. The Hong Kong dollar, the ninth most traded currency globally, is not a floating currency. It is pegged to the US dollar with a narrow trading band.
+NZD;       $;       New Zealand Dollar;   The New Zealand dollar (NZD) is the official currency of New Zealand. NZD is made up of 100 cents and is often represented by the symbol $ or NZ$ to set it apart from other currencies based on dollars. NZD also sees use in the Cook Islands, Niue, Tokelau, and the Pitcairn Islands.
+CRC;       ₡;       Costa Rican Colón;    The Costa Rican colón (CRC) is the official currency of the Republic of Costa Rica. It was valued at about 546 colones to one U.S. dollar in July 2023. The value of the colón has been allowed to float against the U.S. dollar since 2015.
+CZK;       Kč;	  Czech Koruna;           CZK is the currency abbreviation for the Czech koruna, the official legal tender for the Czech Republic. One koruna is comprised of 100 haléřů. The Czech Republic is part of the European Union (EU) and so is legally bound to adopt the common euro currency eventually, although this does not appear to be imminent.
+GEL;       ₾;     Georgian Lari;          The national currency, Georgian Lari (GEL), has been the only legal tender across all of Georgia since the 2nd of October, 1995. The word “lari” goes from old Georgian and means “treasure” or “property”.
+GHS;       ₵;	   Ghanaian Cedi;         GHS - Ghanaian Cedi. The Ghanaian Cedi is the currency of Ghana. Our currency rankings show that the most popular Ghanaian Cedi exchange rate is the GHS to USD rate. The currency code for Cedis is GHS, and the currency symbol is GH₵.
+AMD;       ֏;      Armenian Dram;         The Armenian dram (Armenian: դրամ, sign: ֏, abbreviation: դր. ISO code: AMD) is the currency of Armenia. It was historically subdivided into 100 luma (լումա). The Central Bank of Armenia is responsible for issuance and circulation of dram banknotes and coins, as well as implementing the monetary policy of Armenia.
+THB;       ฿;	   Thai Baht;             The Thai baht (THB) is the official currency of the Kingdom of Thailand. The symbol of the currency is ฿. It is divided into 100 satang. The Bank of Thailand issues the currency.
+NGN;       ₦;       Nigerian Naira;       The currency of Nigeria is the Nigerian Naira (NGN). The term Naira, which originated from Chief Obafemi Awolowo, is a play on the country's name Nigeria. The Nigerian Naira is issued by the Central Bank of Nigeria, which was established in 1958 and began issuing its own currency in 1973.
+KRW;       ₩;      South Korean Won;      The South Korean won (Symbol: ₩, Code: KRW, Korean: 대한민국 원) is the official currency of South Korea. A single won is divided into 100 jeon, the monetary subunit. The jeon is no longer used for everyday transactions, and it appears only in foreign exchange rates.
+ILS;       ₪;	   Israeli New Shekel;    ILS is the international three-letter abbreviation for the Israeli new shekel. The new shekel replaced the hyper-inflated original shekel at a ratio of 1000 to 1 in 1986. Since its introduction, it has been one of the more stable currencies in the world.
+LAK;	    ₭;	   Lao Kip;               The kip (Lao: ກີບ, romanized: kib, code: LAK, sign: ₭ or ₭N, French: kip, officially: ເງີນກີບລາວ, lit. "currency Lao kip") is the currency of Laos since 1955. Historically, one kip was divided into 100 att (ອັດ) which are no longer in regular use. The term derives from ກີບ kì:p, a Lao word meaning "ingot."
+MNT;		₮;     Mongolian Tögrög;      MNT is the currency code for the tugrug, which also goes by tögrög or tugrik. It is the official currency of Mongolia, using symbol is ₮, but sums are often written as “Tg” followed by the number, such as Tg 590. ₮1 can be subdivided into 100 möngö.
+PHP;	    ₱;	   Philippine Peso;       The Philippine peso (PHP), or 'piso' in Filipino, is the official currency of the Philippines. It's subdivided into 100 centavos, or 'sentimos' in Filipino. The symbol of the Philippine peso is ₱. The Philippines has the third largest economy in Southeast Asia.
+PYG;		₲;		Paraguayan Guaraní;   The Paraguay guarani (PYG) is the national currency of the Republic of Paraguay. The guarani is abbreviated as PYG in the foreign exchange (forex) market and is represented by the symbol ₲. Banknotes in circulation range in value from ₲1,000 to ₲100,000 while coins are minted from ₲50 to ₲1,000.
+UAH;	    ₴;      Ukrainian Hryvnia;    The national currency of Ukraine – hryvnia – and its one hundredth part – kopiika – was put into circulation during the monetary reform on 2-16 September 1996. The letter code of the currency is UAH, the numerical code is 980, the shortened name is hrn, the graphical symbol is ₴.
+KZT;		₸;	    Kazakhstani Tenge;    The tenge (/ˈtɛŋɡeɪ/ or /tɛŋˈɡeɪ/, Kazakh: теңге, teñge [tʲeŋˈɡʲe], Russian: тенге, sign: ₸ , code: KZT) is the currency of Kazakhstan. It is divided into 100 tiyn (Kazakh: тиын, tiyn [təˈjən]). The language(s) of this currency do(es) not have a morphological plural distinction.
+INR;		₹;      Indian Rupee;         The Indian rupee (symbol: ₹, code: INR) is the official currency in the Republic of India. The rupee is subdivided into 100 paise (Hindi plural, singular: paisa). The issuance of the currency is controlled by the Reserve Bank of India. The Reserve Bank manages currency in India and derives its role in currency management based on the Reserve Bank of India Act, 1934.
+AZN;	    ₼;	     Azerbaijani Manat;   The Azerbaijani manat (AZN) is the official currency of Azerbaijan, a country located in the South Caucasus region of Eurasia. The manat was introduced in 1992 after Azerbaijan gained independence from the Soviet Union, replacing the Soviet ruble as the country's official currency.
+VND;		₫;       Vietnamese Đồng;     Its monetary unit is the Dong, abbreviated in the domestic market as “đ”, and abbreviated in the international market as VND. Banknotes and coins issued by the SBV are the legal tender and used as an unlimited means of payment within the territory of Vietnam.
+BRL;       R$;         Brazilian Real;    The Brazilian real (BRL) is the official currency of Brazil. It is divided into 100 centavos. The symbol of the Brazilian real is R$. The country is rated as an advanced emerging economy, ranking as the world's 13th largest economy by GDP in 2020.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

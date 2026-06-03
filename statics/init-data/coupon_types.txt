@@ -1,0 +1,19 @@
+
+#  Code              Name
+
+
+PODC;               Percent-off Discount Coupons
+FSC;                Free Shipping Coupons
+BOGO;              Buy 1 Get 1 Free
+CD;                Cart Deals
+SAFS;              Seasonal and Festive Sale
+FTFPS;             Free Trials for Products/Services
+NSD;               Newsletter Subscription Discount
+RC;                 Referral Coupons
+FTB;               First-time Buyer Discount
+LP;                Loyalty Points
+SOD;               Special Occasion Discounts
+GC;                Gift Cards
+SCC;                Scratch Card Coupons
+SMSC;               SMS Coupons
+AC;                 Automated Coupons

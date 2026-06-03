@@ -1,0 +1,7 @@
+
+# manufacturers, distributors, and wholesalers
+# Code     Title
+
+MF;       Manufacturers;
+DI;       Distributors;
+WS;       Wholesalers;

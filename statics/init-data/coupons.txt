@@ -1,0 +1,7 @@
+
+#  Type              Code               ExpiryDate                     Name                                         Description
+
+PODC;       #PODC-01 ;                2024-12-30;                    Percent-off Discount Coupons (12/2024);               Percent-off Discount Coupons (12/2024)
+FSC;        #FSC-01;                  2024-12-30;                    Free Shipping Coupons (12/2024);                      Free Shipping Coupons (12/2024)
+BOGO;       #BOGO-01;                 2024-12-30;                    Buy 1 Get 1 Free (12/2024);                           Buy 1 Get 1 Free (12/2024)
+

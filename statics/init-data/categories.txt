@@ -1,0 +1,7 @@
+
+# Category Code;         Category Name;             CategoryImage
+
+C01;                    Electric Cars;           cars.webp
+C02;                   Electric Motorbike;        motorbikes.webp
+
+C03;                        Future;                 future.webp

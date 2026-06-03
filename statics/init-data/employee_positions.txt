@@ -1,0 +1,13 @@
+
+#  PositionCode      Name
+
+CEO;                Chief Executive Officer
+CMO;                Chief Marketing Officer
+CHRO;               Chief Human Resources Officer
+CFO;                Chief Financial Officer
+
+VP;                 Vice President
+AVP;                Assistant Vice President
+SM;                 Senior Manager
+M;                  Manager
+AM;                 Assistant Manager

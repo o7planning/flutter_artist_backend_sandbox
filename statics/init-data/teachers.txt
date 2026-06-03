@@ -1,0 +1,95 @@
+# SELECT un.code, te.full_name, substring(te.email,instr(te.email,'@')) as email_suffix,
+# te.default_image_name, 'US' as countryCode, 'en' as Language,
+# te.* FROM TEACHER te, University un
+# where te.university_id = un.id order by 1, 2
+
+
+# UniversityCode      FullName                 EmailSuffix                       Image                    Gender       Position          Birthday
+
+# boys
+
+
+HARVARD;              Oliver Smith;            @fas.harvard.edu;              oliver-smith.webp;        M;             AI;            2000-01-01;        
+HARVARD;              Jack Williams;            @fas.harvard.edu;              jack-williams.webp;      M;             AI;            2000-01-01;
+HARVARD;              Harry Brown ;           @fas.harvard.edu;              harry-brown.webp;          M;             AI;            2000-01-01;
+HARVARD;              Jacob Wilson ;           @fas.harvard.edu;              jacob-wilson.webp;        M;             AI;            2000-01-01;
+HARVARD;              Charlie Morton;            @fas.harvard.edu;              charlie-morton.webp;    M;             AI;            2000-01-01;
+HARVARD;              Thomas Wang  ;          @fas.harvard.edu;             thomas-wang.webp;           M;             AI;            2000-01-01;
+HARVARD;              George Wang ;           @fas.harvard.edu;              george-wang.webp;          M;             AI;            2000-01-01;
+HARVARD;              Oscar Martin ;          @fas.harvard.edu;              oscar-martin.webp;         M;             AI;            2000-01-01;
+HARVARD;              James Anderson ;           @fas.harvard.edu;              james-anderson.webp;    M;             AI;            2000-01-01;
+HARVARD;              William Anderson;           @fas.harvard.edu;              william-anderson.webp;  M;             AI;            2000-01-01;
+
+
+# girls
+
+
+
+HARVARD;              Amelia Smith;           @fas.harvard.edu;              amelia-smith.webp;         F;             AI;            2000-01-01;
+HARVARD;              Olivia Smith;             @fas.harvard.edu;             olivia-smith.webp;        F;             AI;            2000-01-01;
+HARVARD;              Isla Wilson ;          @fas.harvard.edu;              isla-wilson.webp;           F;             AI;            2000-01-01;
+HARVARD;              Emily Wilson ;          @fas.harvard.edu;              emily-wilson.webp;         F;             AI;            2000-01-01;
+HARVARD;              Poppy Wilson ;           @fas.harvard.edu;              poppy-wilson.webp;        F;             AI;            2000-01-01;
+HARVARD;              Ava White  ;         @fas.harvard.edu;                     ava-white.webp;        F;             AI;            2000-01-01;
+HARVARD;              Isabella Gagnon;            @fas.harvard.edu;             isabella-gagnon.webp;   F;             AI;            2000-01-01;
+HARVARD;              Jessica Martin ;            @fas.harvard.edu;             jessica-martin.webp;    F;             AI;            2000-01-01;
+HARVARD;              Lily Gagnon ;           @fas.harvard.edu;             lily-gagnon.webp;           F;             AI;            2000-01-01;
+HARVARD;              Sophie Anderson ;            @fas.harvard.edu;             sophie-anderson.webp;  F;             AI;            2000-01-01;
+
+# boys
+
+HARVARD;              Noah Gagnon ;            @fas.harvard.edu;            noah-gagnon.webp;           M;             AI;            2000-01-01;
+HARVARD;              Liam Wilson ;           @fas.harvard.edu;             liam-wilson.webp;           M;             AI;            2000-01-01;
+HARVARD;              Mason Lee ;           @fas.harvard.edu;             mason-lee.webp;               M;             AI;            2000-01-01;
+HARVARD;              Jacob Martin ;           @fas.harvard.edu;             jacob-martin.webp;         M;             AI;            2000-01-01;
+HARVARD;              David Taylor;            @fas.harvard.edu;             david-taylor.webp;         M;             AI;            2000-01-01;
+HARVARD;              Thomas Brown ;            @fas.harvard.edu;            thomas-brown.webp;         M;             AI;            2000-01-01;
+HARVARD;              Joseph Gelbero ;             @fas.harvard.edu;            joseph-gelbero.webp;    M;             AI;            2000-01-01;
+HARVARD;              Oscar Wilson ;           @fas.harvard.edu;             oscar-wilson.webp;         M;             AI;            2000-01-01;
+HARVARD;              Thomas Wilson;              @fas.harvard.edu;            thomas-wilson.webp;      M;             AI;            2000-01-01;
+
+
+# -----------------------------------------------------------------------------------------
+
+
+# boys
+
+
+MIT;              James Smith;                @mit.edu;                       james-smith.webp;          M;             AI;            2000-01-01;
+MIT;              John Jones;                 @mit.edu;                       john-jones.webp;           M;             AI;            2000-01-01;
+MIT;              Robert Williams;                @mit.edu;                       robert-williams.webp;  M;             AI;            2000-01-01;
+MIT;              Michael Brown  ;               @mit.edu;                       michael-brown.webp;     M;             AI;            2000-01-01;
+MIT;              William Taylor ;               @mit.edu;                       william-taylor.webp;    M;             AI;            2000-01-01;
+MIT;              David Wilson;               @mit.edu;                       david-wilson.webp;         M;             AI;            2000-01-01;
+MIT;              Richard Evans ;              @mit.edu;                       richard-evans.webp;       M;             AI;            2000-01-01;
+MIT;              Joseph Thomas ;              @mit.edu;                       joseph-thomas.webp;        M;             AI;            2000-01-01;
+MIT;              Thomas Roberts ;              @mit.edu;                       thomas-roberts.webp;      M;             AI;            2000-01-01;
+
+
+# girls
+
+MIT;              Mary Murphy ;              @mit.edu;                       mary-murphy.webp;             F;             AI;            2000-01-01;
+MIT;              Patricia Walsh;                @mit.edu;                       patricia-walsh.webp;      F;             AI;            2000-01-01;
+MIT;              Jennifer Smith;                @mit.edu;                       jennifer-smith.webp;      F;             AI;            2000-01-01;
+MIT;              Elizabeth Byrne;                @mit.edu;                       elizabeth-byrne.webp;     F;             AI;            2000-01-01;
+MIT;              Linda Garcia ;               @mit.edu;                       linda-garcia.webp;           F;             AI;            2000-01-01;
+MIT;              Barbara Rodriguez;                @mit.edu;                       barbara-rodriguez.webp; F;             AI;            2000-01-01;
+MIT;              Susan Wilson ;               @mit.edu;                       susan-wilson.webp;            F;             AI;            2000-01-01;
+MIT;              Margaret Roberts ;               @mit.edu;                       margaret-roberts.webp;    F;             AI;            2000-01-01;
+MIT;              Jessica Evans  ;              @mit.edu;                       jessica-evans.webp;          F;             AI;            2000-01-01;
+MIT;              Sarah Davies ;               @mit.edu;                       sarah-davies.webp;            F;             AI;            2000-01-01;
+
+
+
+# boys 
+
+MIT;              Noah Williams;               @mit.edu;                       noah-williams.webp;        M;             AI;            2000-01-01;
+MIT;              Liam Brown;               @mit.edu;                       liam-brown.webp;              M;             AI;            2000-01-01;
+MIT;              Mason Miller;               @mit.edu;                       mason-miller.webp;         M;             AI;            2000-01-01;
+MIT;              Jacob Garcia ;              @mit.edu;                       jacob-garcia.webp;         M;             AI;            2000-01-01;
+MIT;              Ethan Wilson ;             @mit.edu;                       ethan-wilson.webp;          M;             AI;            2000-01-01;
+MIT;              Reece Smith ;               @mit.edu;                       reece-smith.webp;         M;             AI;            2000-01-01;
+MIT;              Rhys Williams;               @mit.edu;                       rhys-williams.webp;      M;             AI;            2000-01-01;
+MIT;              Charlie Taylor;               @mit.edu;                       charlie-taylor.webp;     M;             AI;            2000-01-01;
+MIT;              Damian Evans ;              @mit.edu;                       damian-evans.webp;          M;             AI;            2000-01-01;
+MIT;              James Evans  ;             @mit.edu;                       james-evans.webp;            M;             AI;            2000-01-01;

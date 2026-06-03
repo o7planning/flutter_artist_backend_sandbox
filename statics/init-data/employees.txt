@@ -1,0 +1,32 @@
+
+#  EmpNumber  Position; DepartmentCode;  EmployeeName         Image            Email                 BirthDay             HireDate
+
+E000   ;      M;       VINGROUP-FIN;    Admin;        admin.png;        admin@example.com;     1979-02-01;           2021-01-02
+
+E001   ;      M;       VINFAST-FIN;     Tom;          tom.png;        tom@example.com;        1985-12-22;            2022-02-12
+E002   ;      AM;       VINFAST-FIN;    Jerry;        jerry.png;        jerry@example.com;        1990-11-17;        2020-07-11
+E003   ;      M;       VINFAST-SALES;    Donald;         donald.png;        donald@example.com;        1985-12-22;     2021-03-12
+E004   ;      M;       VINFAST-SALES;    Mickey;        mickey.png;        mickey@example.com;        2000-04-15;     2023-05-04
+
+E005   ;      M;       VINHOMES-FIN;    Genie;         genie.png;        genie@example.com;       2001-11-11;        2024-11-11
+E006   ;      AM;       VINHOMES-HR;    Goofy;         goofy.png;        goofy@example.com;       1993-04-20;       2011-01-22
+
+E007   ;      M;       VINSCHOOL-FIN;     Stitch;       stitch.png;        stitch@example.com;       1981-07-18;      2000-11-02
+E008    ;      AM;      VINSCHOOL-FIN;     Elsa;           elsa.png;        elsa@example.com;       2000-10-11;        2024-09-02
+
+E009    ;      M;      VINSCHOOL-HR;     Aladdin;           aladdin.png;        aladdin@example.com;       2000-01-22;        2025-01-02
+E010    ;      AM;      VINSCHOOL-HR;     Jasmine;           jasmine.png;        jasmine@example.com;       1999-10-11;        2021-09-02
+
+E011    ;      M;      VINFAST-HR;     Moana;           moana.png;        moana@example.com;       2001-11-11;        2024-03-02
+E012    ;      AM;      VINFAST-HR;     Pooh;           pooh.png;        pooh@example.com;       2000-01-03;        2022-09-11
+E013    ;      M;      VINFAST-IT;     Snow White;      snow-white.png;        snowwhite@example.com;       1999-10-11;        2024-09-04
+
+E014    ;      SM;      VINGROUP-HR;     Tiana;           tiana.png;        tiana@example.com;       1998-10-11;        2021-02-02
+E015    ;      M;      VINGROUP-IT;     Zapunzel;           zapunzel.png;        zapunzel@example.com;       1998-10-11;        2022-05-02
+
+
+E016    ;      SM;      VINHOMES-SALES;     Anna;           anna.png;        anna@example.com;       1998-10-09;        2021-05-02
+E017    ;      M;      VINHOMES-SALES;     Aurora;           aurora.png;        aurora@example.com;       1992-10-11;        2022-07-02
+E018    ;      SM;      VINGROUP-IT;     Minnie;           minnie.png;        minnie@example.com;       1999-10-11;        2024-08-02
+
+E019    ;      SM;      VINGROUP-HR;     Morida;           morida.png;        morida@example.com;       2000-10-11;        2024-01-02

@@ -1,0 +1,64 @@
+
+# AlbumCode      ImageName                 Name                                               YoutubeCode        Locked       Published
+
+A1;             image-20.webp;              Hotel California (Eagles);                              09839DpTctU;       false;       true;
+A1;             image-35.webp;              Perfect (Ed Sheeran);                                   2Vv-BfVoq4g;       true;       true;
+A1;             image-37.webp;              Remember When (Alan Jackson);                           TTA2buWlNyM;       false;       true;
+A1;             image-56.webp;              You belong with me (Taylor Swift);                      VuNIsY6JdUw;       false;       true;
+A1;             image-08.webp;              Bye Bye Bye (NSYNC);                                    Eo-KmOd3i7s;       false;       false;
+A1;             image-48.webp;              The Day You Went Away (M2M);                             A_HekkBbd1M;       false;       true;
+A1;             image-40.webp;              Rolling in the Deep (Adele);                             rYEDA3JcQqw;       false;       true;
+A1;             image-11.webp;              Cheri Cheri Lady (Modern Talking);                      eNvUS-6PTbs;       false;       true;
+A1;             image-45.webp;              Still Loving You (Scorpions);                           CjRas1yOWvo;       false;       true;
+A1;              image-57.webp;             You're My Heart, You're My Soul (Modern Talking);        4kHl4FoK1Ys;       false;       true;
+A1;             image-14.webp;              Gimme! Gimme! Gimme! (A Man After Midnight) (ABBA);      XEjLoHdbVeE;       false;       true;
+A1;             image-38.webp;               Right Here Waiting (Richard Marx);                       S_E2EHVxNAE;       false;       true;
+A1;             image-17.webp;              Happy New Year (ABBA);                                    3Uo0JAUWijM;       true;       true;
+A1;             image-31.webp;              Love Me Like You Do (Ellie Goulding);                     AJtDXIazrMo;       false;       true;
+A1;             image-32.webp;              More Than I Can Say (Leo Sayer);                           GnIlo91CrBw;       true;       true;
+A1;              image-03.webp;             Baby One More Time (Britney Spears);                      C-u5WLJ9Yk4;       false;       true;
+A1;             image-27.webp;              If We Hold On Together (Diana Ross);                      PtYSpRXEyXA;       true;       true;
+A1;              image-51.webp;             What's Up (4 Non Blondes);                                 6NXnxTNIWkc;       false;       true;
+A1;             image-39.webp;              Roar (Katy Perry);                                       CevxZvSJLk8;       false;       true;
+A1;             image-43.webp;              See You Again (Wiz Khalifa);                              RgKAFK5djSk;       false;       true;
+A1;             image-28.webp;              Jingle Bells;                                             v7s2VjwQSMw;       false;       true;
+A1;             image-42.webp;              Seasons In The Sun (Westlife);                           Xdv83MFJd7U;       false;       true;
+A1;             image-44.webp;              Shape of You (Ed Sheeran);                                JGwWNGJdvx8;       false;       true;
+A1;              image-04.webp;             Bang Bang (Dua Lipa);                                      fi_4YiPHGzc;       false;       true;
+A1;              image-07.webp;             Billie Jean (Michael Jackson);                             Zi_XLOBDo_Y;       false;       true;
+A1;             image-16.webp;              Girls Just Want To Have Fun (Cyndi Lauper);                 PIb6AZdTr-A;       false;       true;
+A1;             image-29.webp;              Lemon Tree (Fools Garden);                                  wCQfkEkePx8;       false;       true;
+A1;             image-06.webp;              Because I love you (Shakin' Stevens);                      rh8kKjDEbvM;       false;       true;
+A1;              image-33.webp;             My Heart Will Go On (Céline Dion);                           IAuRoAUV19o;       false;       true;
+A1;              image-05.webp;             Barbie Girl (Aqua);                                          ZyhrYis509A;       false;       true;
+A1;              image-46.webp;             Take Me To Your Heart (Michael Learns To Rock);             TbLT12eg-lw;       false;       true;
+A1;              image-41.webp;             Say You Will (Tokyo Square);                               E7UlemBSoYw;       false;       true;
+A1;              image-49.webp;             The Power Of Love (Céline Dion);                           Y8HOfcYWZoo;       false;       true;
+A1;             image-50.webp;              Trouble Is A Friend (Lenka);                                 QHpvlr_kG6U;       false;       true;
+A1;              image-01.webp;             A Thousand Years (Christina Perri);                           rtOvBOTyX00;       false;       true;
+A1;              image-54.webp;             Yesterday Once More (The Carpenters);                           YTaWayUE5XA;       false;       true;
+A1;             image-58.webp;              Zombie (The Cranberries);                                       6Ejga4kJUts;       false;       true;
+A1;             image-13.webp;              Faded (Alan Walker);                                           60ItHLz5WEA;       false;       true;
+A1;             image-23.webp;              I Wanna Grow Old With You (Westlife);                           0LHmevWVvpc;       false;       true;
+A1;             image-25.webp;              I'm Alive (Céline Dion);                                       NJsa6-y4sDs;       false;       true;
+
+
+# ----------------------------------------------------------------------------------------------------------
+
+A2;            image-12.webp;               Eye Of The Tiger (Survivor);                                      btPJPFnesV4;       false;       true;
+A2;             image-22.webp;              I Wanna Dance With Somebody (Whitney Houston);                 eH3giaIzONA;       false;       true;
+A2;             image-24.webp;              I Want It That Way (Backstreet Boys);                           4fndeDfaWCg;       false;       true;
+A2;             image-34.webp;              My Love (Westlife);                                              ulOb9gIGGd0;       false;       true;
+A2;             image-53.webp;              Yellow (Coldplay);                                               yKNxeF4KMsY;       false;       true;
+A2;             image-21.webp;              I Lay My Love on You (Westlife);                                 ZnOAK04tJhc;       false;       true;
+A2;             image-10.webp;              Caravan Of Life (Tokyo Square);                                   838f_hQAOyw;       false;       true;
+
+A2;             image-09.webp;              Can't Let Go (Tokyo Square);                                      MNoSzjDjsoA;       false;       true;
+A2;             image-36.webp;              Pretty Boy (M2M);                                                oHBfWVl40mc;       false;       true;
+A2;             image-15.webp;              Girl You Are My Love (Tokyo Square);                              YuJpeNZLjeQ;       false;       true;
+A2;             image-19.webp;              Home (Westlife);                                                  DuFHaVJpcr4;       false;       true;
+A2;             image-26.webp;             If I Let You Go (Westlife);                                       7NrQei36fJk;       false;       true;
+A2;              image-02.webp;             Alone (Alan Walker);                                              1-xGerv5FOk;       false;       true;
+A2;             image-55.webp;              You Will Find Your Way (Tokyo Square);                           8BvzdzoPAGs;       false;       true;
+A2;             image-47.webp;              That's The Way It Is (Céline Dion);                               T6wbugWrfLU;       false;       true;
+A2;             image-52.webp;              Wind Of Change (Scorpions);                                       n4RjJKxsamQ;       false;       true;

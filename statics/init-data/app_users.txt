@@ -1,0 +1,16 @@
+
+#  UserName    IsSystemUser       Email                      FullName           Image           Role                  Password       EmployeeCode
+
+admin;            true;         admin@example.com;               Admin;         admin.png;       MANAGER;                 123;          E000
+tom   ;           true;         tom@example.com;                Tom;           tom.png;           SELLER;                 123;          E001
+jerry   ;         true;         jerry@example.com;            Jerry;          jerry.png;        SELLER;                 123;          E002
+donald   ;        false;        donald@example.com;           Donald;        donald.png;      SELLER;                 123;          E003
+mickey   ;        false;         mickey@example.com;           Mickey;        mickey.png;      SELLER;                 123;          E004
+genie   ;         false;        genie@example.com;            Genie;          genie.png;        SELLER;                 123;          E005
+goofy   ;         false;        goofy@example.com;            Goofy;          goofy.png;        SELLER;                 123;          E006
+stitch   ;        false;         stitch@example.com;           Stitch;        stitch.png;       SELLER;                 123;          E007
+elsa    ;         false;         elsa@example.com;           Elsa;            elsa.png;        SELLER;                 123;           E008
+
+anonymous1;       false;          anonymous1@example.com;     Anonymous 1;    anonymous1.png;   USER;                 123;
+anonymous2;       false;           anonymous2@example.com;    Anonymous 2;    anonymous2.png;   USER;                 123;
+anonymous3;       false;          anonymous3@example.com;      Anonymous 3;   anonymous3.png;   USER;                 123;

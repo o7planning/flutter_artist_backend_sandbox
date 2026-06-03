@@ -1,0 +1,26 @@
+
+#  Code      CustomerName      Address               phone                   email                 image
+
+CUS-01;       James;            Address 1;        0912345601;                 james@example.com;      james.png
+CUS-02;       John;              Address 2;        0912345602;                john@example.com;        john.png
+CUS-03;       Robert;           Address 3;        0912345603;               robert@example.com;        robert.png
+CUS-04;       Michael;           Address 4;        0912345604;                 michael@example.com;     michael.png
+CUS-05;       William;          Address 5;        0912345605;               william@example.com;      william.png
+CUS-06;       David;            Address 6;        0912345606;                  david@example.com;    david.png
+CUS-07;       Richard;          Address 7;        0912345607;               richard@example.com;      richard.png
+CUS-08;       Joseph;          Address 8;        0912345608;               joseph@example.com;         joseph.png
+
+CUS-09;       Charles;          Address 9;        0912345609;               charles@example.com;        charles.png
+CUS-10;       Thomas;           Address 10;        0912345610;               thomas@example.com;       thomas.png
+
+CUS-11;       Mary;           Address 11;        0912345611;               mary@example.com;           mary.png
+
+CUS-12;       Patricia;        Address 12;        0912345601;           patricia@example.com;         patricia.png
+CUS-13;       Jennifer;        Address 13;        0912345601;           jennifer@example.com;          jennifer.png
+CUS-14;       Elizabeth;        Address 14;        0912345601;         elizabeth@example.com;         elizabeth.png
+CUS-15;       Linda;           Address 15;        0912345601;               linda@example.com;        linda.png
+CUS-16;       Barbara;        Address 16;        0912345601;            barbara@example.com;           barbara.png
+CUS-17;       Susan;          Address 17;        0912345601;               susan@example.com;          susan.png
+CUS-18;       Margaret;        Address 18;        0912345601;           margaret@example.com;           margaret.png
+CUS-19;       Jessica;          Address 19;        0912345601;            jessica@example.com;          jessica.png
+CUS-20;       Sarah;          Address 20;        0912345601;               sarah@example.com;           sarah.png

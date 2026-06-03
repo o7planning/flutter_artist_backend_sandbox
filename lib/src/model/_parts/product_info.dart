@@ -1,0 +1,66 @@
+part of '../model.dart';
+
+@JsonSerializable()
+class ProductInfo {
+  @JsonKey(name: 'id')
+  late int id;
+
+  @JsonKey(name: 'name')
+  late String name;
+
+  @JsonKey(name: 'price')
+  late double price;
+
+  @JsonKey(name: 'active')
+  late bool active;
+
+  @JsonKey(name: 'imagePath')
+  String? imagePath;
+
+  @JsonKey(name: 'categoryId')
+  int categoryId;
+
+  @JsonKey(includeFromJson: false)
+  String? get imageUrl {
+    return getStaticResourceURL(imagePath);
+  }
+
+  ProductInfo(
+    this.id,
+    this.name,
+    this.price,
+    this.active,
+    this.imagePath,
+    this.categoryId,
+  );
+
+  ProductInfo.named({
+    required this.id,
+    required this.name,
+    required this.price,
+    required this.active,
+    required this.imagePath,
+    required this.categoryId,
+  });
+
+  factory ProductInfo.fromEntity(ProductData entity) {
+    return ProductInfo.named(
+      id: entity.id,
+      name: entity.name,
+      price: entity.price,
+      active: entity.active,
+      imagePath: getProductBase64Image(entity.id) ?? entity.imagePath,
+      categoryId: entity.categoryId,
+    );
+  }
+
+  factory ProductInfo.fromJson(Map<String, dynamic> json) =>
+      _$ProductInfoFromJson(json);
+
+  Map<String, dynamic> toJson() => _$ProductInfoToJson(this);
+
+  @override
+  String toString() {
+    return "${getClassName(this)}($id, $name)";
+  }
+}

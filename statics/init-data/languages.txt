@@ -1,0 +1,22 @@
+		
+# code; name; nameInEnglish; seqNum
+
+en;English;English;  10
+zh;中国;Chinese;  20
+es;Española;Spanish;  30
+ja;日本;Japanese;  40
+de;Deutsche;German;  50
+ru;Русский;Russian;  60
+fr;Français;French;  70
+ko;한국인;Korean;  80
+vi;Tiếng Việt;Vietnamese; 90
+th;ไทย;Thai;  100
+lo;ປະເທດລາວ;Laos; 110
+id;Bahasa Indonesia;Indonesian; 120
+it;Italiano;Italian;  130
+pt;Português;Portuguese;  140
+tr;Türkiye;Türkiye; 150
+ar;عربي;Arabic; 160
+
+
+

@@ -1,0 +1,44 @@
+name: flutter_artist_backend_sandbox
+description: A comprehensive local fake backend and API sandbox with embedded database logic for rapid Flutter SaaS and Dashboard prototyping.
+version: 0.9.0+1
+resolution: workspace
+homepage: https://o7planning.github.io
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^1.6.0
+  shelf: ^1.4.2
+  dio: ^5.9.1
+  json_serializable: ^6.12.0
+  json_annotation: ^4.12.0
+  collection: ^1.19.1
+  intl: ^0.20.2
+  path_provider: ^2.1.5
+  msw_dio_interceptor: ^1.0.3
+
+
+  drift: ^2.32.1
+  drift_flutter: ^0.3.0
+  sqlite3_flutter_libs: ^0.6.0+eol
+  cupertino_icons: ^1.0.8
+
+
+  flutter_artist_core: ^0.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  drift_dev: ^2.31.0
+  build_runner: ^2.11.1
+  flutter_lints: ^6.0.0
+
+
+flutter:
+  assets:
+    - statics/init-data/

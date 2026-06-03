@@ -1,0 +1,7 @@
+
+# COMPANYCode;         CompanyName;               CompanyImage;            CompanyParentCode;    Description
+
+VINGROUP;                  Vingroup;                vingroup.webp;                       ;          Vingroup
+VINFAST;                   Vinfast;                 vinfast.webp;                VINGROUP;          Vinfast
+VINHOMES;                  Vinhomes;                vinhomes.webp;               VINGROUP;          Vinhomes
+VINSCHOOL;                 Vinschool;               vinschool.webp;              VINGROUP;         Vinschool

@@ -1,0 +1,20 @@
+
+# Department Code;                Department Name;        DepartmentImage;           CompanyCode
+
+VINGROUP-FIN;                       VG Finance;                    ;                       VINGROUP
+VINGROUP-HR;                        VG Human Resources;             ;                      VINGROUP
+VINGROUP-IT;                        VG IT;                          ;                      VINGROUP
+
+VINFAST-FIN;                        VF Finance;                    ;                      VINFAST
+VINFAST-HR;                        VF Human Resources;             ;                      VINFAST
+VINFAST-SALES;                     VF Sales;                       ;                      VINFAST
+VINFAST-IT;                         VF IT;                         ;                      VINFAST
+
+
+VINHOMES-FIN;                        VH Finance;                    ;                     VINHOMES
+VINHOMES-HR;                        VH Human Resources;             ;                     VINHOMES
+VINHOMES-SALES;                     VH Sales;                       ;                      VINHOMES
+
+
+VINSCHOOL-FIN;                        VS Finance;                    ;                      VINSCHOOL
+VINSCHOOL-HR;                        VS Human Resources;             ;                      VINSCHOOL

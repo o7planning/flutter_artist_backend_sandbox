@@ -1,0 +1,32 @@
+
+#  EmpNumber   DepartmentCode;   CompanyCode;      FromDate;      ToDate;          PositionCode;
+
+E000   ;       VINGROUP-FIN;     VINGROUP;        2001-01-01;    2002-06-12;        CFO;
+
+E001   ;       VINFAST-FIN;      VINFAST;        2001-01-02;    2002-07-10;         CFO;
+E002   ;       VINFAST-FIN;      VINFAST;        2001-02-03;    2003-08-01;          M;
+E003   ;       VINFAST-SALES;    VINFAST;        2001-02-04;    2004-01-01;          M;
+E004   ;       VINFAST-SALES;    VINFAST;        2001-01-05;    2002-09-29;          M;
+
+E005   ;       VINHOMES-FIN;      VINHOMES;        2001-02-01;    2002-11-26;          M;
+E006   ;       VINHOMES-HR;       VINHOMES;        2001-01-01;    2002-01-01;          M;
+
+E007   ;       VINSCHOOL-FIN;     VINSCHOOL;        2001-03-01;    2003-06-27;          M;
+E008    ;      VINSCHOOL-FIN;     VINSCHOOL;        2001-01-01;    2002-08-21;          M;
+
+E009    ;      VINSCHOOL-HR;      VINSCHOOL;        2001-04-01;    2002-01-01;          M;
+E010    ;      VINSCHOOL-HR;      VINSCHOOL;        2001-01-01;    2004-09-18;          M;
+
+E011    ;      VINFAST-HR;        VINFAST;        2001-02-01;    2002-10-09;          M;
+E012    ;      VINFAST-HR;        VINFAST;        2001-01-01;    2003-01-01;          M;
+E013    ;      VINFAST-IT;        VINFAST;        2001-03-01;    2002-01-01;          M;
+
+E014    ;      VINGROUP-HR;       VINGROUP;        2001-03-01;    2006-01-01;          M;
+E015    ;      VINGROUP-IT;       VINGROUP;        2001-01-01;    2002-12-25;          M;
+
+
+E016    ;      VINHOMES-SALES;    VINHOMES;        2001-01-01;    2005-01-01;          M;
+E017    ;      VINHOMES-SALES;     VINHOMES;        2001-04-01;    2002-08-04;          M;
+E018    ;      VINGROUP-IT;        VINGROUP;        2001-01-01;    2004-09-11;          M;
+
+E019    ;      VINGROUP-HR;       VINGROUP;        2001-01-01;    2003-10-27;          M;

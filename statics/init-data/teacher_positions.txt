@@ -1,0 +1,6 @@
+# CODE            NAME
+
+AF;           Adjunct Faculty
+AI;           Adjunct Instructor
+I;            Instructor
+P;            Professor

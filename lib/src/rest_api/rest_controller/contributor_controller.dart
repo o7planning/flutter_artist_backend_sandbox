@@ -9,10 +9,10 @@ import '../../utils/mock_response_utils.dart';
 // *****************************************************************************
 
 void contributorRestApiRegister() {
-  // /rest/contributor/123
+  // /rest/record/contributor-data/123
   MockRegistry.register(
     MockRule.regex(
-      pattern: '/rest/contributor/\\d+',
+      pattern: '/rest/record/contributor-data/\\d+',
       method: 'GET',
       handler: (MockRequest request) async {
         try {

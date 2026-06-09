@@ -1,6 +1,6 @@
 name: flutter_artist_backend_sandbox
 description: A comprehensive local fake backend and API sandbox with embedded database logic for rapid Flutter SaaS and Dashboard prototyping.
-version: 0.9.0+1
+version: 0.9.1
 resolution: workspace
 homepage: https://o7planning.github.io
 
